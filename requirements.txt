@@ -1,0 +1,7 @@
+anthropic
+diskcache
+pypdf
+openreview-py
+litellm
+ipykernel
+git+https://github.com/nityathakkar/textgrad.git@main
