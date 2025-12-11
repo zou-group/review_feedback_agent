@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/927422259.svg)](https://doi.org/10.5281/zenodo.17903957)
+
 # Review Feedback Agent
 
 This codebase implements the Review Feedback Agent, which is designed to provide feedback on peer-reviews at AI conferences. The input to our agent is a review to provide feedback on and the corresponding paper it was written about. The output is feedback to enhance the review quality by making it more specific and actionable for the authors.
